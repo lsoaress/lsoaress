@@ -4,7 +4,7 @@
 - 📒 Estou aprendendo atualmente Js, Css, Mysql, Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsoaress&show_icons=true&theme=midnight-purple)
-  <div style="float: left;">
+  <div>
   <a href="https://github.com/lsoaress">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsoaress&layout=compact&langs_count=7&theme=midnight-purple"/>
