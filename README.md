@@ -1,6 +1,6 @@
 ## Opa, Boa tarde! Eu sou o Lucas Soares
 
-- 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade Bandtec Digital School
+- 🔭 Atualmente estudo analise e desenvolvimento de sistemas na faculdade São Paulo Tech School
 - 📒 Estou aprendendo atualmente Js, Css, Mysql, Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsoaress&show_icons=true&theme=midnight-purple)
